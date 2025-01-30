@@ -1,1 +1,1 @@
-# logprint
+くわしくはlogprint.h内のコメントアウトみて
