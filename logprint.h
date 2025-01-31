@@ -22,11 +22,6 @@
 
 
 
-
-
-
-
-
 #ifndef LOGPRINT_H
 #define LOGPRINT_H
 
